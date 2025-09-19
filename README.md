@@ -1,4 +1,4 @@
-# ML_Basics
+# Machine-Learning
 A collection of small projects to build a strong foundation in Machine Learning concepts.
 
 Starting with building Decision Trees, Random Forests from scartch, I want to also attempt to build a basic neural network from scratch. Following this, I want to build some projects to explore the implementations of scki-kit learn, TensorFlow (with and without keras) and PyTorch. I would like to make comparisons between the implementations and understand the key differences between these libraries. Anyone who might also be intersted in the code may feel free to look through my various scripts.
